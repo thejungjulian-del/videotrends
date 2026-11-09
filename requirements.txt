@@ -1,0 +1,7 @@
+# Core (always needed)
+Flask>=3.0
+python-dotenv>=1.0
+
+# Real scrapers (fragile, optional -- install when you're ready to use them)
+# TikTokApi>=6.0
+# instaloader>=4.10
